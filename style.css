@@ -40,4 +40,8 @@ body {
       .delete-btn:hover {
         color: red;
       }
+
+      .Box{
+        text-align: center;
+      }
       
